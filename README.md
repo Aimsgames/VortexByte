@@ -1,6 +1,5 @@
 # VortexByte - Roblox Script Injector  
 
-*(Replace "VortexByte" with your tool's actual name)*  
 
 ## 🔧 Why I Built This  
 I developed this project to explore the intersection of game development, scripting, and automation within the Roblox platform. As someone passionate about creating tools that empower users to customize their experiences responsibly, this injector is designed to streamline Lua script execution for educational and ethical testing purposes.  
